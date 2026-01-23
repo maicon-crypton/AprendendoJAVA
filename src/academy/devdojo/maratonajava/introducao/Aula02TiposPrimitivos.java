@@ -7,7 +7,7 @@ public class Aula02TiposPrimitivos {
         double salarioDouble = 2000.0;
         float salarioFloat = 2500.0F;
         byte idadeByte = 127;
-        int idadeShort = 32000;
+        short idadeShort = 32000;
         boolean verdadeiro = true;
         boolean falso = false;
         char caractere = '\u0041';
